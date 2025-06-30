@@ -1,6 +1,7 @@
 ---
 title: "CV"
 layout: default
+author_profile: true
 permalink: /cv/
 ---
 
