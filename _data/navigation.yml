@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
  
   - title: "CV"
-    url: /acad-homepage.github.io/cv/
+    url: "/acad-homepage.github.io/cv/"
   
   - title: "News"
     url: "/#-news"
