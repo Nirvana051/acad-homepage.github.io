@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Finalist in China (Zhengzhou) International Intelligent Connected Vehicle Competition (CIICV) | June 2023
+- Finalist in China (Zhengzhou) International Intelligent Connected Vehicle Competition (CIICV) | June 2023
 Distinguished recognition in China’s largest ICV competition, highlighting exceptional expertise and performance. 
 
 # 📖 Educations
@@ -57,3 +57,4 @@ Distinguished recognition in China’s largest ICV competition, highlighting exc
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- BEIJING UINNOVA TECHNOLOGIES CO., LTD. | Digital Twin Development Intern Beijing | Jan 2021 
