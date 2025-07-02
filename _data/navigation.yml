@@ -1,26 +1,27 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
- 
+    url: "{{ '/#about-me' | relative_url }}"
+
   - title: "CV"
-    url: "cv/"
-  
+    url: "{{ '/cv/'       | relative_url }}"
+
   - title: "News"
-    url: "/#-news"
+    url: "{{ '/#-news'    | relative_url }}"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "{{ '/#-publications' | relative_url }}"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "{{ '/#-honors-and-awards' | relative_url }}"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "{{ '/#-educations' | relative_url }}"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "{{ '/#-invited-talks' | relative_url }}"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "{{ '/#-internships' | relative_url }}"
+
 
